@@ -33,39 +33,6 @@
     "createdAt": "2025-10-06T08:11:58.835Z"
   },
   {
-    "firNumber": "FIR-20251006034339",
-    "dateTime": "2025-10-06T09:13",
-    "complainant": {
-      "name": "jeny das",
-      "address": "jamna stree gorakhpur",
-      "phone": "8596412370",
-      "description": "a theft occurred at my residence located at 45, Green Street, Cityville. Unknown persons broke into my house and stole gold jewelry and cash worth approximately ₹2,00,000. I suspect the culprits may be from the nearby locality, but I do not know their identities."
-    },
-    "createdAt": "2025-10-06T03:46:15.760Z"
-  },
-  {
-    "firNumber": "FIR-20251006043306",
-    "dateTime": "202518-08-07T16:12",
-    "complainant": {
-      "name": "Rajendra Rao",
-      "address": "chandini street",
-      "phone": "798465132",
-      "description": "Landmark judgment on digital evidence admissibility under IPC and CrPC sections. Court recognized digital trails as valid primary evidence, significantly impacting cybercrime investigations."
-    },
-    "createdAt": "2025-10-06T04:34:33.006Z"
-  },
-  {
-    "firNumber": "FIR-20251006081044",
-    "dateTime": "2025-10-06T13:40",
-    "complainant": {
-      "name": "raghunath barik",
-      "address": "skula nagar ",
-      "phone": "6370569685",
-      "description": "Judgment emphasized citizen privacy in FIR publication. Introduced guidelines for redaction of sensitive information before publishing FIRs online"
-    },
-    "createdAt": "2025-10-06T08:11:58.835Z"
-  },
-  {
     "firNumber": "FIR-20251212143905",
     "dateTime": "2025-12-10T12:12",
     "complainant": {

@@ -19,24 +19,133 @@ const OfficerAssistant = () => {
       .replace(/[_*`#>-]/g, "");   // remove markdown chars
   }
 
-  // Gemini API ---- using .env
+  // ------------------------------
+  // RAG: Investigation Context
+  // ------------------------------
+  const retrieveInvestigationContext = async (query) => {
+    const q = query.toLowerCase();
+
+    if (q.includes("theft") || q.includes("stolen")) {
+      return `
+OFFENCE:
+Theft under IPC Sections 378 and 379
+
+KEY INGREDIENTS:
+- Dishonest intention
+- Movable property
+- Taken without consent
+
+INVESTIGATION POINTS:
+- Exact place and time of occurrence
+- Proof of ownership
+- CCTV camera coverage
+- Last possession details
+- Possible suspects
+
+EVIDENCE:
+- CCTV footage
+- Call detail records
+- Witness statements
+`;
+    }
+
+    if (q.includes("cyber")) {
+      return `
+OFFENCE:
+Cyber crime under IT Act, 2000 and IPC
+
+INVESTIGATION POINTS:
+- Nature of cyber offence
+- Mode of fraud
+- Transaction trail
+- IP address and device details
+- Bank and service provider coordination
+
+EVIDENCE:
+- Server and access logs
+- Bank statements
+- Screenshots and emails
+`;
+    }
+
+    if (q.includes("assault")) {
+      return `
+OFFENCE:
+Assault under IPC Sections 351, 352, 323
+
+INVESTIGATION POINTS:
+- Nature of injuries
+- Medical examination timing
+- Weapon or force used
+- Presence of witnesses
+
+EVIDENCE:
+- MLC report
+- Witness statements
+- CCTV footage
+`;
+    }
+
+    return `
+GENERAL INVESTIGATION GUIDELINES:
+Identify offence using IPC and follow procedure under CrPC.
+Maintain proper documentation and evidence chain.
+`;
+  };
+
+  // ------------------------------
+  // Gemini API Call
+  // ------------------------------
   const generateAIResponse = async (promptText) => {
     try {
       setLoading(true);
-
       const apiKey = import.meta.env.VITE_GEMINI_API_KEY;
+
+      const investigationContext =
+        await retrieveInvestigationContext(promptText);
+
+      const SYSTEM_PROMPT = `
+You are an AI Assistant for Police Officers.
+
+ROLE:
+- Assist in incident analysis
+- Identify applicable IPC and CrPC sections
+- Suggest investigation steps
+- Guide evidence collection
+
+RULES:
+- Be professional and analytical
+- Do not give personal opinions
+- Base responses on Indian law
+- Write detailed and structured explanations
+
+RESPONSE FORMAT:
+1. Incident Summary
+2. Applicable Legal Sections
+3. Investigation Steps
+4. Evidence to Collect
+5. Procedural Next Actions
+`;
+
+      const finalPrompt = `
+${SYSTEM_PROMPT}
+
+INVESTIGATION CONTEXT:
+${investigationContext}
+
+INCIDENT DESCRIPTION:
+${promptText}
+`;
 
       const res = await fetch(
         `https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=${apiKey}`,
         {
           method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
+          headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
             contents: [
               {
-                parts: [{ text: promptText }],
+                parts: [{ text: finalPrompt }],
               },
             ],
           }),
@@ -48,10 +157,9 @@ const OfficerAssistant = () => {
         data?.candidates?.[0]?.content?.parts?.[0]?.text ||
         "No response generated.";
 
-      // Clean markdown before returning
       return cleanMarkdown(rawText);
-
     } catch (error) {
+      console.error(error);
       return "Error generating response.";
     } finally {
       setLoading(false);
