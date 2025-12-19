@@ -121,8 +121,8 @@ const CitizenChat = () => {
         {/* Header */}
         <div className="flex items-center justify-between mb-4 flex-shrink-0">
           <h2 className="text-lg font-semibold flex items-center gap-2">
-            <span className="bg-gradient-to-r from-pink-500 to-purple-600 p-2 rounded-full text-white flex items-center justify-center">
-              <MessageIcon style={{ fontSize: 20 }} />
+            <span className="bg-gradient-to-r from-pink-500 to-purple-600 p-3 rounded-full text-white flex items-center justify-center">
+              <span className="material-icons" style={{ fontSize: 20 }}>forum</span>
             </span>
             AI Legal Assistant
           </h2>

@@ -124,7 +124,9 @@ const OfficerGenerate = () => {
       {/* FIR Form */}
       <div className="w-full bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 rounded-xl shadow-lg p-6 border border-gray-200 dark:border-gray-700 transition-colors">
         <div className="flex items-center gap-2 mb-6">
-          <span className="bg-green-600 p-2 rounded-full text-white">📄</span>
+          <span className="bg-green-600 p-2 rounded-full text-white flex items-center justify-center">
+            <span className="material-icons text-white">edit</span>
+          </span>
           <h2 className="text-lg font-semibold">Smart FIR Generator</h2>
         </div>
 

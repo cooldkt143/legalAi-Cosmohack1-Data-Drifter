@@ -42,7 +42,7 @@ const Landing = () => {
         </div>
         <h1 className="text-2xl sm:text-3xl font-bold">LegalAI FIR Assistant</h1>
         <p className="text-gray-600 dark:text-gray-400 mt-1 sm:mt-2 text-sm sm:text-base">
-          ✨ AI-Powered Legal Intelligence ✨
+          AI-Powered Legal Intelligence
         </p>
       </motion.div>
 
@@ -64,24 +64,25 @@ const Landing = () => {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.98 }}
           variants={{ hidden: { y: 30, opacity: 0 }, visible: { y: 0, opacity: 1 } }}
-          className="w-full flex items-center gap-3 sm:gap-4 
-                     bg-white dark:bg-blue-900/40 
-                     border border-gray-200 dark:border-blue-800 
-                     p-4 sm:p-5 rounded-xl shadow-md 
-                     transition-all duration-300 text-left 
+          className="w-full flex items-center gap-3 sm:gap-4
+                     bg-white/20 dark:bg-blue-900/30
+                     backdrop-blur-md
+                     border border-white/30 dark:border-blue-800/50
+                     p-4 sm:p-5 rounded-xl shadow-lg
+                     transition-all duration-300 text-left
                      hover:shadow-2xl"
           onClick={() => navigate("/officerLogin")}
         >
-          <div className="bg-blue-600 p-2 sm:p-3 rounded-full flex-shrink-0">
-            <Shield className="w-5 h-5 sm:w-6 sm:h-6 text-white" />
+          <div className="bg-blue-600/10 p-2 sm:p-3 rounded-full flex-shrink-0 backdrop-blur-sm">
+            <Shield className="w-5 h-5 sm:w-6 sm:h-6 text-blue-400" />
           </div>
           <div className="flex-1">
             <h2 className="font-semibold text-base sm:text-lg">Police Officer</h2>
-            <p className="text-gray-600 dark:text-gray-300 text-xs sm:text-sm">
+            <p className="text-gray-900 dark:text-gray-200 text-xs sm:text-sm">
               Advanced FIR tools, case management, and legal database access
             </p>
           </div>
-          <ArrowRight className="w-5 h-5 text-gray-600 dark:text-white" />
+          <ArrowRight className="w-5 h-5 text-black/80 dark:text-white/80" />
         </motion.button>
 
         {/* Citizen Card */}
@@ -89,24 +90,25 @@ const Landing = () => {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.98 }}
           variants={{ hidden: { y: 30, opacity: 0 }, visible: { y: 0, opacity: 1 } }}
-          className="w-full flex items-center gap-3 sm:gap-4 
-                     bg-white dark:bg-green-900/40 
-                     border border-gray-200 dark:border-green-800 
-                     p-4 sm:p-5 rounded-xl shadow-md 
-                     transition-all duration-300 text-left 
+          className="w-full flex items-center gap-3 sm:gap-4
+                     bg-white/20 dark:bg-green-900/30
+                     backdrop-blur-md
+                     border border-white/30 dark:border-green-800/50
+                     p-4 sm:p-5 rounded-xl shadow-lg
+                     transition-all duration-300 text-left
                      hover:shadow-2xl"
           onClick={() => navigate("/citizenLogin")}
         >
-          <div className="bg-green-600 p-2 sm:p-3 rounded-full flex-shrink-0">
-            <User className="w-5 h-5 sm:w-6 sm:h-6 text-white" />
+          <div className="bg-green-600/10 p-2 sm:p-3 rounded-full flex-shrink-0 backdrop-blur-sm">
+            <User className="w-5 h-5 sm:w-6 sm:h-6 text-green-400" />
           </div>
           <div className="flex-1">
             <h2 className="font-semibold text-base sm:text-lg">Citizen</h2>
-            <p className="text-gray-600 dark:text-gray-300 text-xs sm:text-sm">
+            <p className="text-gray-900 dark:text-gray-200 text-xs sm:text-sm">
               File complaints, know your rights, and get instant legal guidance
             </p>
           </div>
-          <ArrowRight className="w-5 h-5 text-gray-600 dark:text-white" />
+          <ArrowRight className="w-5 h-5 text-black/80 dark:text-white/80" />
         </motion.button>
       </motion.div>
 

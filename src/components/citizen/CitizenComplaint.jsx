@@ -113,7 +113,9 @@ const CitizenComplaint = () => {
       {/* FIR Form */}
       <div className="w-full bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 rounded-xl shadow-lg p-8 border border-gray-200 dark:border-gray-700 transition-colors">
         <div className="flex items-center gap-3 mb-8">
-          <span className="bg-green-600 p-2 rounded-full text-white text-xl">📄</span>
+          <span className="bg-green-600 p-2 rounded-full text-white flex items-center justify-center">
+            <span className="material-icons text-white">edit</span>
+          </span>
           <h2 className="text-xl font-semibold tracking-wide">
             File a Complaint
           </h2>

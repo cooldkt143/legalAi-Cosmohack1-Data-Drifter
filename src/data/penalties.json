@@ -70,5 +70,269 @@
       "Rider of a bike without helmet",
       "Pillion passenger without helmet"
     ]
+  },
+  {
+    "id": 7,
+    "name": "Driving Without Licence",
+    "category": "Traffic",
+    "penalty": "₹5,000 fine",
+    "description": "Driving a motor vehicle without holding a valid driving licence issued by the competent authority.",
+    "lawReference": "Motor Vehicles Act, Section 181",
+    "typicalExamples": [
+      "Driving without ever obtaining a licence",
+      "Driving with an expired licence"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Driving Without Insurance",
+    "category": "Traffic",
+    "penalty": "₹2,000 fine or 3 months imprisonment",
+    "description": "Using a motor vehicle in a public place without valid motor insurance coverage.",
+    "lawReference": "Motor Vehicles Act, Section 196",
+    "typicalExamples": [
+      "Insurance policy expired",
+      "No third-party insurance"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Overloading Passengers",
+    "category": "Traffic",
+    "penalty": "₹2,000 and ₹1,000 per extra passenger",
+    "description": "Carrying more passengers than the permitted seating capacity of the vehicle.",
+    "lawReference": "Motor Vehicles Act, Section 194A",
+    "typicalExamples": [
+      "Triple riding on a two-wheeler",
+      "Overcrowded auto-rickshaw"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Driving Without Registration",
+    "category": "Traffic",
+    "penalty": "₹5,000 fine",
+    "description": "Driving a vehicle that is not registered with the Regional Transport Office.",
+    "lawReference": "Motor Vehicles Act, Section 39",
+    "typicalExamples": [
+      "New vehicle without temporary registration",
+      "Using an unregistered vehicle on road"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Dangerous Driving",
+    "category": "Traffic",
+    "penalty": "₹5,000 fine or 6 months imprisonment",
+    "description": "Driving in a manner that endangers public safety, including rash or negligent driving.",
+    "lawReference": "Motor Vehicles Act, Section 184",
+    "typicalExamples": [
+      "Zig-zag driving at high speed",
+      "Sudden lane changes without indication"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Blocking Emergency Vehicles",
+    "category": "Traffic",
+    "penalty": "₹10,000 fine",
+    "description": "Failing to give way to ambulances, fire engines, or other emergency vehicles.",
+    "lawReference": "Motor Vehicles Act, Section 194E",
+    "typicalExamples": [
+      "Not clearing lane for ambulance",
+      "Blocking emergency siren vehicles"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Pollution Certificate Not Available",
+    "category": "Traffic",
+    "penalty": "₹1,000 first offence, ₹2,000 subsequent offence",
+    "description": "Driving a vehicle without a valid Pollution Under Control certificate.",
+    "lawReference": "Motor Vehicles Act, Section 190(2)",
+    "typicalExamples": [
+      "Expired PUC certificate",
+      "No PUC document during checking"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Unauthorized Parking",
+    "category": "Traffic",
+    "penalty": "₹500 - ₹2,000 fine",
+    "description": "Parking a vehicle in prohibited or no-parking zones causing obstruction.",
+    "lawReference": "Motor Vehicles Act, Section 177",
+    "typicalExamples": [
+      "Parking in front of gate or driveway",
+      "Parking in no-parking zone"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Failure to Carry Documents",
+    "category": "Traffic",
+    "penalty": "₹500 fine",
+    "description": "Failure to produce valid driving licence, RC, insurance, or PUC when demanded by authorities.",
+    "lawReference": "Motor Vehicles Act, Section 130",
+    "typicalExamples": [
+      "Not carrying licence or digital copy",
+      "Unable to show RC or insurance"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Driving Against One Way",
+    "category": "Traffic",
+    "penalty": "₹1,000 - ₹5,000 fine",
+    "description": "Driving a vehicle in the opposite direction on a one-way road, creating risk to other road users.",
+    "lawReference": "Motor Vehicles Act, Section 184",
+    "typicalExamples": [
+      "Entering a one-way street from the wrong side",
+      "Taking a shortcut through a one-way road"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Honking in Silent Zone",
+    "category": "Traffic",
+    "penalty": "₹1,000 fine",
+    "description": "Using the horn in designated silent zones such as hospitals, courts, and schools.",
+    "lawReference": "Motor Vehicles Act, Section 194F",
+    "typicalExamples": [
+      "Honking near hospital entrance",
+      "Unnecessary horn use near schools"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Racing or Speed Testing on Public Road",
+    "category": "Traffic",
+    "penalty": "₹5,000 fine or 6 months imprisonment",
+    "description": "Conducting races or speed trials on public roads without permission.",
+    "lawReference": "Motor Vehicles Act, Section 189",
+    "typicalExamples": [
+      "Street racing with another vehicle",
+      "Testing vehicle top speed on highway"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Using Black Film or Tinted Glass",
+    "category": "Traffic",
+    "penalty": "₹500 - ₹1,000 fine",
+    "description": "Using tinted or black films beyond the legally permitted visibility limits.",
+    "lawReference": "Motor Vehicles Act, Section 177",
+    "typicalExamples": [
+      "Dark sun film on car windows",
+      "Tinted windshield affecting visibility"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Number Plate Not as Per Norms",
+    "category": "Traffic",
+    "penalty": "₹5,000 fine",
+    "description": "Using fancy, damaged, altered, or non-standard number plates.",
+    "lawReference": "Motor Vehicles Act, Section 177",
+    "typicalExamples": [
+      "Stylish or unreadable number plate",
+      "Missing High Security Registration Plate"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Improper Use of High Beam",
+    "category": "Traffic",
+    "penalty": "₹500 - ₹1,000 fine",
+    "description": "Using high beam lights in city areas or when approaching another vehicle.",
+    "lawReference": "Motor Vehicles Act, Section 177",
+    "typicalExamples": [
+      "High beam in residential streets",
+      "Blinding oncoming traffic at night"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Carrying Goods in Passenger Vehicle",
+    "category": "Traffic",
+    "penalty": "₹2,000 fine",
+    "description": "Transporting commercial goods in a vehicle not permitted for goods carriage.",
+    "lawReference": "Motor Vehicles Act, Section 66",
+    "typicalExamples": [
+      "Using personal car for commercial delivery",
+      "Overloading household items beyond limit"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Obstructing Traffic",
+    "category": "Traffic",
+    "penalty": "₹500 - ₹2,000 fine",
+    "description": "Stopping or leaving a vehicle in a way that obstructs free flow of traffic.",
+    "lawReference": "Motor Vehicles Act, Section 122",
+    "typicalExamples": [
+      "Stopping vehicle in middle of road",
+      "Blocking junction or pedestrian crossing"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Allowing Unauthorized Person to Drive",
+    "category": "Traffic",
+    "penalty": "₹5,000 fine",
+    "description": "Allowing a person without a valid licence to drive your vehicle.",
+    "lawReference": "Motor Vehicles Act, Section 180",
+    "typicalExamples": [
+      "Giving vehicle to unlicensed friend",
+      "Allowing minor to drive"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Failure to Stop After Accident",
+    "category": "Traffic",
+    "penalty": "₹5,000 fine or 6 months imprisonment",
+    "description": "Not stopping or reporting after being involved in a road accident.",
+    "lawReference": "Motor Vehicles Act, Section 134",
+    "typicalExamples": [
+      "Hit and run without informing police",
+      "Leaving accident spot immediately"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Driving Without Valid Fitness Certificate",
+    "category": "Traffic",
+    "penalty": "₹5,000 fine",
+    "description": "Using a transport or old vehicle on public roads without a valid fitness certificate issued by the authority.",
+    "lawReference": "Motor Vehicles Act, Section 56",
+    "typicalExamples": [
+      "Expired fitness certificate for commercial vehicle",
+      "Old vehicle running without fitness clearance"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Using Modified or Loud Exhaust",
+    "category": "Traffic",
+    "penalty": "₹1,000 - ₹10,000 fine",
+    "description": "Using modified silencers or exhaust systems that produce excessive noise beyond permitted limits.",
+    "lawReference": "Motor Vehicles Act, Section 190(2)",
+    "typicalExamples": [
+      "Bullet bike with modified silencer",
+      "Excessive exhaust noise in residential area"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Not Giving Way to Pedestrians",
+    "category": "Traffic",
+    "penalty": "₹500 - ₹2,000 fine",
+    "description": "Failure to stop or slow down to allow pedestrians to cross at zebra crossings or designated areas.",
+    "lawReference": "Motor Vehicles Act, Section 138",
+    "typicalExamples": [
+      "Ignoring zebra crossing",
+      "Not stopping for pedestrians at crossing"
+    ]
   }
 ]

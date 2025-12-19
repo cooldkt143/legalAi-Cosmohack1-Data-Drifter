@@ -248,7 +248,9 @@ ${promptText}
       <div className="w-full h-[105%] bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 rounded-xl shadow-lg p-6 border border-gray-200 dark:border-gray-700 flex flex-col">
         <div className="flex items-center justify-between mb-4 flex-shrink-0">
           <h2 className="text-lg font-semibold flex items-center gap-2">
-            <span className="bg-blue-600 p-2 rounded-full text-white">🎯</span>
+            <span className="bg-blue-600 p-2 rounded-full text-white flex items-center justify-center">
+              <span className="material-icons text-white">room</span>
+            </span>
             AI-Powered Incident Analysis
           </h2>
           <span className="text-xs px-2 py-1 bg-green-600 text-white rounded-full">
