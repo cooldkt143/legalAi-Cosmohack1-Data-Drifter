@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Over Speeding",
+    "category": "Traffic",
+    "penalty": "₹1,000 - ₹2,000 (Light Motor Vehicle)",
+    "description": "Driving above the prescribed speed limit depending on vehicle category and road type.",
+    "lawReference": "Motor Vehicles Act, Section 184",
+    "typicalExamples": [
+      "Driving at 80 km/h in a 50 km/h zone",
+      "Exceeding speed limit in a school zone"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Drunken Driving",
+    "category": "Traffic",
+    "penalty": "₹10,000 or 6 months imprisonment",
+    "description": "Driving under the influence of alcohol or drugs.",
+    "lawReference": "Motor Vehicles Act, Section 185",
+    "typicalExamples": [
+      "Driver’s blood-alcohol content above legal limit",
+      "Operating vehicle after consuming alcohol"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "No Seat Belt",
+    "category": "Traffic",
+    "penalty": "₹1,000 fine",
+    "description": "Failure to wear a seat belt while driving or sitting in the front seat.",
+    "lawReference": "Motor Vehicles Act, Section 194",
+    "typicalExamples": [
+      "Driver not wearing seat belt",
+      "Front-seat passenger without seat belt"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Using Mobile While Driving",
+    "category": "Traffic",
+    "penalty": "₹5,000 fine",
+    "description": "Using a mobile phone or other handheld device while operating a vehicle.",
+    "lawReference": "Motor Vehicles Act, Section 179(2)",
+    "typicalExamples": [
+      "Texting while driving",
+      "Holding a phone to take a call while moving"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Signal Jumping",
+    "category": "Traffic",
+    "penalty": "₹1,000 - ₹5,000 fine",
+    "description": "Disobeying traffic lights or signals while driving.",
+    "lawReference": "Motor Vehicles Act, Section 184A",
+    "typicalExamples": [
+      "Crossing at red light",
+      "Ignoring pedestrian signal"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "No Helmet",
+    "category": "Traffic",
+    "penalty": "₹1,000 fine and licence suspension",
+    "description": "Riding a two-wheeler without wearing a protective helmet.",
+    "lawReference": "Motor Vehicles Act, Section 129",
+    "typicalExamples": [
+      "Rider of a bike without helmet",
+      "Pillion passenger without helmet"
+    ]
+  }
+]

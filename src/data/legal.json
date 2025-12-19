@@ -1,0 +1,352 @@
+[
+  {
+    "section": "154",
+    "title": "Information in cognizable cases",
+    "category": "CrPC",
+    "description": "Section 154 mandates that every information relating to a cognizable offence must be recorded in writing by a police officer. It ensures timely registration of crimes and is crucial for initiating a police investigation. The informant is entitled to receive a copy of the FIR. If a police officer refuses to register the complaint, the aggrieved party may approach a senior officer. This section is the foundation of procedural justice, ensuring access to legal remedies and protection of victims' rights under the criminal justice system.",
+    "usage": "high"
+  },
+  {
+    "section": "302",
+    "title": "Punishment for murder",
+    "category": "IPC",
+    "description": "This section provides for the punishment of murder. Anyone convicted of committing murder is liable to face either the death penalty or life imprisonment, along with a possible fine. The decision on the nature of punishment is at the discretion of the court, based on the severity and brutality of the act. Section 302 serves as a deterrent for heinous crimes and upholds the value of human life. It is one of the most critical sections in Indian criminal law.",
+    "usage": "high"
+  },
+  {
+    "section": "375",
+    "title": "Rape",
+    "category": "IPC",
+    "description": "Section 375 defines rape as unlawful sexual intercourse with a woman under circumstances including force, threat, or incapacity to consent. It highlights situations such as lack of consent, misrepresentation, intoxication, and underage status. Consent must be unequivocal and voluntary. Amendments in 2013 broadened its scope to include more sexual acts and protective clauses. This section aims to preserve women's dignity and bodily autonomy while ensuring perpetrators are brought to justice. It forms the basis for prosecuting sexual offences in India.",
+    "usage": "high"
+  },
+  {
+    "section": "161",
+    "title": "Examination of witnesses by police",
+    "category": "CrPC",
+    "description": "Under Section 161, police officers are empowered to examine orally any person believed to be acquainted with the facts and circumstances of a case under investigation. The statements are recorded and may be used for corroboration or contradiction in court. The section plays a key role in evidence collection during the pre-trial stage. It ensures that the investigation process is thorough and grounded in witness accounts, which are vital to establishing facts and aiding judicial proceedings.",
+    "usage": "medium"
+  },
+  {
+    "section": "420",
+    "title": "Cheating and dishonestly inducing delivery of property",
+    "category": "IPC",
+    "description": "Section 420 deals with the offence of cheating and dishonestly inducing a person to deliver property or to alter or destroy a valuable security. The section punishes such acts with imprisonment of up to seven years and a fine. It addresses fraudulent activities where the intention is to deceive and gain undue advantage. This provision safeguards economic interests and punishes breaches of trust in financial and contractual dealings. It is frequently invoked in financial fraud cases and scams.",
+    "usage": "high"
+  },
+  {
+    "section": "41",
+    "title": "When police may arrest without warrant",
+    "category": "CrPC",
+    "description": "Section 41 grants powers to police officers to arrest individuals without a warrant under specific circumstances, mainly when a cognizable offence is committed. It includes arresting a person involved in a crime or someone likely to commit further offences. Recent judicial interpretations stress the need for caution and reasons to be recorded during arrest. This section strikes a balance between preventive policing and the protection of individual liberties. It prevents misuse of authority and promotes accountability in the arrest process.",
+    "usage": "high"
+  },
+  {
+    "section": "509",
+    "title": "Insulting the modesty of a woman",
+    "category": "IPC",
+    "description": "Section 509 criminalizes acts, words, or gestures intended to insult the modesty of a woman. It includes speaking obscenely, making sexually coloured remarks, or intruding upon the privacy of a woman. The section provides for simple imprisonment for up to one year, or a fine, or both. It addresses harassment in public and private spaces and supports women's dignity. This provision empowers women to report verbal or non-physical abuse and ensures such misconduct doesn't go unpunished.",
+    "usage": "high"
+  },
+  {
+    "section": "164",
+    "title": "Recording of confessions and statements",
+    "category": "CrPC",
+    "description": "Section 164 allows a Magistrate to record confessions and statements during the investigation of a case. These statements, if made voluntarily, carry evidentiary value. The Magistrate must ensure the person understands the consequences and is not under any duress. This provision ensures transparency in criminal investigations and safeguards the rights of accused and witnesses. It also helps the prosecution by preserving reliable and admissible pre-trial evidence which may be crucial in the courtroom.",
+    "usage": "high"
+  },
+  {
+    "section": "143",
+    "title": "Punishment for unlawful assembly",
+    "category": "IPC",
+    "description": "Section 143 prescribes the punishment for being a member of an unlawful assembly. Any person who is a part of such a group with the common object to commit an offence or resist lawful authority can be punished with imprisonment of up to six months, or fine, or both. It aims to regulate public order and discourage collective violence. This section is often used in cases of protests turning violent or mobs assembling unlawfully.",
+    "usage": "medium"
+  },
+  {
+    "section": "313",
+    "title": "Power to examine the accused",
+    "category": "CrPC",
+    "description": "Section 313 allows the court to directly examine the accused during the trial, after the prosecution evidence is presented. This provision ensures that the accused gets a fair opportunity to explain any circumstances appearing in the evidence against them. It forms a part of natural justice, enabling a full and fair trial. The answers given by the accused can be used in evidence but cannot alone be the basis for conviction. It is a vital safeguard in the trial process.",
+    "usage": "medium"
+  },
+    {
+    "section": "197",
+    "title": "Prosecution of Judges and public servants",
+    "category": "CrPC",
+    "description": "Section 197 provides protection to judges and certain public servants from prosecution for acts done while acting or purporting to act in the discharge of their official duties. Without prior sanction from the competent government authority, no court shall take cognizance of such offences. The rationale is to allow officials to perform their duties without fear of vexatious litigation, but it also includes safeguards against misuse. This section maintains a balance between accountability and functional autonomy of public servants.",
+    "usage": "medium"
+  },
+  {
+    "section": "324",
+    "title": "Voluntarily causing hurt by dangerous weapons",
+    "category": "IPC",
+    "description": "Section 324 addresses the act of causing hurt voluntarily using dangerous weapons or means such as fire, poison, or sharp instruments. The punishment under this section can extend to three years of imprisonment, or fine, or both. This provision ensures a higher penalty for those who cause bodily harm using tools that could result in serious injury or trauma. It aims to deter the use of harmful weapons in everyday conflicts or criminal attacks.",
+    "usage": "medium"
+  },
+  {
+    "section": "91",
+    "title": "Summons to produce document or other thing",
+    "category": "CrPC",
+    "description": "Under Section 91, a court or a police officer conducting an investigation may issue a summons or written order to any person to produce documents or materials required for the case. The section enables the legal system to access key documentary evidence or articles. This is essential for transparency and completeness in investigations or trial proceedings. It prevents concealment of material facts and promotes fair adjudication by allowing the presentation of necessary records.",
+    "usage": "medium"
+  },
+  {
+    "section": "379",
+    "title": "Theft",
+    "category": "IPC",
+    "description": "Section 379 defines the punishment for theft, which includes imprisonment of up to three years, a fine, or both. Theft refers to the dishonest removal of movable property from someone's possession without their consent. This section serves to protect individual property rights and deter dishonest appropriation. It is one of the most common offences under IPC and is widely applied in both personal and commercial disputes involving unlawful possession.",
+    "usage": "high"
+  },
+  {
+    "section": "204",
+    "title": "Issue of process",
+    "category": "CrPC",
+    "description": "Section 204 empowers a Magistrate to issue a summons or warrant if, upon reviewing a complaint and examination of the complainant, there is sufficient ground for proceeding. This section is a gateway to initiating formal criminal proceedings. It ensures that the accused is notified and brought before the court to answer the allegations. The provision ensures that no person is tried without due notice and legal intimation, maintaining procedural fairness in the criminal justice process.",
+    "usage": "medium"
+  },
+  {
+    "section": "509",
+    "title": "Insulting the modesty of a woman",
+    "category": "IPC",
+    "description": "Section 509 criminalizes actions, words, or gestures intended to insult a woman's modesty. This includes sexually colored remarks, obscene sounds, or intrusion of privacy. Punishment includes imprisonment of up to one year, or fine, or both. It plays a significant role in addressing non-physical harassment in public or private spaces and promotes gender dignity. The section is often used in cases of street harassment, lewd comments, and stalking-type behaviors.",
+    "usage": "high"
+  },
+  {
+    "section": "106",
+    "title": "Security for keeping the peace on conviction",
+    "category": "CrPC",
+    "description": "Under Section 106, a court may require a person convicted of certain offences involving breach of peace or assault to execute a bond for keeping the peace. The court may impose such conditions for a period not exceeding three years. This preventive measure aims to ensure that habitual offenders or those involved in violent behaviour are legally bound to maintain peace, thus protecting public order after conviction.",
+    "usage": "medium"
+  },
+  {
+    "section": "146",
+    "title": "Rioting",
+    "category": "IPC",
+    "description": "Section 146 defines rioting as the use of force or violence by an unlawful assembly or by any member thereof in furtherance of the common object of the group. It punishes individuals who are involved in group violence, irrespective of who used the force. This provision plays a critical role in controlling mob behavior and safeguarding public order. It is commonly invoked in cases of communal unrest or violent protests.",
+    "usage": "medium"
+  },
+  {
+    "section": "200",
+    "title": "Examination of complainant",
+    "category": "CrPC",
+    "description": "According to Section 200, when a Magistrate takes cognizance of an offence on a private complaint, the complainant and witnesses must be examined on oath. This allows the court to determine if there are sufficient grounds to proceed. It also filters out frivolous complaints and ensures only valid cases are considered for further action. This is an essential step in the judicial process when initiating a case outside of police reports.",
+    "usage": "medium"
+  },
+  {
+    "section": "124A",
+    "title": "Sedition",
+    "category": "IPC",
+    "description": "Section 124A deals with sedition, which involves any act or speech that attempts to bring hatred or contempt against the government established by law. The section criminalizes acts that incite violence or public disorder. It provides for punishment ranging from three years to life imprisonment, along with a fine. This section has been controversial due to concerns of misuse against dissent, but it still exists in the statute to address threats to national security and public order.",
+    "usage": "high"
+  },
+    {
+    "section": "167",
+    "title": "Procedure when investigation cannot be completed in twenty-four hours",
+    "category": "CrPC",
+    "description": "Section 167 provides that if a police investigation cannot be completed within 24 hours of arrest, the accused must be brought before a Magistrate. The Magistrate may authorize detention for up to 15 days, or longer under judicial custody, based on the nature of the offence. It ensures that individuals are not held in custody arbitrarily without judicial oversight. This section is vital for upholding the constitutional rights of the accused while allowing law enforcement time for a fair investigation.",
+    "usage": "high"
+  },
+  {
+    "section": "326",
+    "title": "Voluntarily causing grievous hurt",
+    "category": "IPC",
+    "description": "This section deals with voluntarily causing grievous hurt by dangerous weapons or means, such as firearms, acid, or sharp objects. The punishment can extend to life imprisonment or a term up to ten years, with a fine. It is invoked in cases of severe bodily harm resulting in disfigurement, permanent damage, or life-threatening injuries. Section 326 is significant in ensuring justice for victims of violent crimes and acts as a strong deterrent against the use of harmful instruments to cause harm.",
+    "usage": "high"
+  },
+  {
+    "section": "36",
+    "title": "Powers of superior officers of police",
+    "category": "CrPC",
+    "description": "Section 36 allows police officers superior in rank to the officer in charge of a police station to exercise the same powers throughout their jurisdiction. This provision ensures a hierarchy and delegation of authority within the police force, enabling efficient supervision and swift decision-making. It ensures that senior officers can oversee, intervene, and support ongoing investigations where necessary. This helps maintain order and accountability in complex cases requiring higher-level involvement.",
+    "usage": "medium"
+  },
+  {
+    "section": "375",
+    "title": "Rape",
+    "category": "IPC",
+    "description": "Section 375 defines rape as non-consensual sexual intercourse involving force, threat, misrepresentation, or incapacity. The law provides detailed circumstances where consent is considered invalid, such as intoxication or minority. It reflects the principle of bodily autonomy and has been extensively amended to include broader definitions and protect survivors. This section is fundamental in prosecuting sexual violence cases and upholding women’s rights to dignity, security, and justice in the face of gender-based violence.",
+    "usage": "high"
+  },
+  {
+    "section": "57",
+    "title": "Person arrested not to be detained more than twenty-four hours",
+    "category": "CrPC",
+    "description": "Section 57 limits police custody without a magistrate’s permission to 24 hours. If further detention is necessary, the accused must be presented before a Magistrate within that time frame. This provision protects individuals from illegal and prolonged detention, ensuring the arresting process is carried out with judicial supervision. It is a constitutional safeguard under Article 22 and a cornerstone of procedural justice in democratic legal systems. It promotes timely action and transparency in criminal proceedings.",
+    "usage": "high"
+  },
+  {
+    "section": "212",
+    "title": "Harbouring offender",
+    "category": "IPC",
+    "description": "Section 212 deals with harbouring offenders who have committed an offence punishable with death or life imprisonment. It penalizes those who conceal or shelter such criminals with intent to evade arrest. The punishment varies depending on the severity of the underlying offence. This section helps the justice system reach perpetrators by punishing those who attempt to hinder the legal process. It ensures cooperation from citizens and discourages aiding fugitives.",
+    "usage": "medium"
+  },
+  {
+    "section": "190",
+    "title": "Cognizance of offences by Magistrates",
+    "category": "CrPC",
+    "description": "Under Section 190, Magistrates are empowered to take cognizance of offences upon receiving a complaint, a police report, or information from any person. It is a gateway provision allowing courts to begin criminal proceedings. This section ensures judicial independence and discretion in initiating trials and protects against unnecessary or premature prosecutions. It strengthens the integrity of the legal process and ensures that only valid and legally sound cases are entertained.",
+    "usage": "high"
+  },
+  {
+    "section": "268",
+    "title": "Public nuisance",
+    "category": "IPC",
+    "description": "Section 268 defines a public nuisance as any act or illegal omission that causes common injury, danger, or annoyance to the public or people in general. This section helps control activities that may affect public health, safety, convenience, or morals. It empowers authorities to take action against polluters, encroachers, or any group disrupting civic life. This provision plays a preventive role in maintaining harmony in communities and regulating harmful public behavior.",
+    "usage": "medium"
+  },
+  {
+    "section": "105",
+    "title": "Reciprocal arrangements regarding processes",
+    "category": "CrPC",
+    "description": "Section 105 deals with cooperation between India and foreign countries for mutual legal assistance, especially in serving summons and warrants, and for the attachment or forfeiture of property. This provision is vital in addressing cross-border crimes, including terrorism, smuggling, and financial fraud. It enables seamless legal communication between states and promotes the global fight against crime. The section plays a key role in ensuring criminals do not escape justice by moving beyond borders.",
+    "usage": "low"
+  },
+  {
+    "section": "141",
+    "title": "Unlawful assembly",
+    "category": "IPC",
+    "description": "Section 141 defines an unlawful assembly as a group of five or more persons with a common objective to commit a crime, resist legal authority, or carry out any plan involving criminal force. This section is invoked in instances of mob violence, protests, or rallies turning disruptive. It provides the legal framework to declare such gatherings illegal and take preventive or punitive action. It helps maintain public order while allowing peaceful assembly when conducted lawfully.",
+    "usage": "medium"
+  },
+    {
+    "section": "102",
+    "title": "Power of police officer to seize certain property",
+    "category": "CrPC",
+    "description": "Section 102 empowers any police officer to seize any property which may be alleged or suspected to have been stolen, or which may create suspicion of being linked to a crime. The property must be reported to the Magistrate promptly. This provision is crucial for preserving evidence and preventing its concealment or destruction. It plays a key role during the investigation stage and enables law enforcement agencies to take swift action in crime-related cases.",
+    "usage": "medium"
+  },
+  {
+    "section": "146",
+    "title": "Rioting",
+    "category": "IPC",
+    "description": "Section 146 defines rioting as the use of force or violence by an unlawful assembly. Even if a single member of the group commits the act, every member becomes liable. The law aims to deter collective violence and punish all individuals participating in such unlawful acts. It is frequently used during communal clashes, violent protests, or any disturbance to public peace involving a group. The section reinforces collective responsibility to maintain public order.",
+    "usage": "medium"
+  },
+  {
+    "section": "239",
+    "title": "When accused shall be discharged",
+    "category": "CrPC",
+    "description": "Section 239 enables a Magistrate to discharge the accused in warrant cases instituted on a police report if, after considering the charge-sheet and hearing both sides, no prima facie case is made out. It protects innocent individuals from facing unnecessary trials. This section helps in filtering out baseless charges early in the process, reducing burden on courts and saving time for genuine cases that require full examination and prosecution.",
+    "usage": "medium"
+  },
+  {
+    "section": "354A",
+    "title": "Sexual harassment",
+    "category": "IPC",
+    "description": "Section 354A criminalizes sexual harassment, including physical contact without consent, demands for sexual favors, showing pornography, or making sexually colored remarks. It aims to address harassment in workplaces and public places, protecting the dignity and security of women. This provision was introduced in response to growing public concern over gender-based violence and aligns with constitutional protections and international conventions on women's safety and equality.",
+    "usage": "high"
+  },
+  {
+    "section": "204",
+    "title": "Issue of process",
+    "category": "CrPC",
+    "description": "Section 204 allows a Magistrate to issue a summons or a warrant to the accused after being satisfied that there is sufficient ground to proceed in a case. It marks the transition from preliminary evaluation to formal judicial proceedings. This provision ensures due process is initiated only after reasonable scrutiny, thereby protecting individuals from frivolous litigation and maintaining judicial efficiency in handling criminal complaints.",
+    "usage": "medium"
+  },
+  {
+    "section": "295",
+    "title": "Injuring or defiling place of worship",
+    "category": "IPC",
+    "description": "Section 295 deals with deliberate acts intended to insult religious beliefs by damaging or defiling places of worship or sacred objects. The offence is punishable with imprisonment up to two years, a fine, or both. This section is important in maintaining communal harmony and respecting the diverse faiths followed in India. It criminalizes acts that may provoke religious violence or hurt sentiments of communities.",
+    "usage": "high"
+  },
+  {
+    "section": "313",
+    "title": "Power to examine the accused",
+    "category": "CrPC",
+    "description": "This provision gives the trial court the authority to question the accused directly after the prosecution has presented its evidence. The accused must be given an opportunity to explain any facts and circumstances appearing in the evidence against them. The responses may help the court draw conclusions about the accused’s involvement or innocence. Section 313 ensures the right to be heard and is a cornerstone of a fair trial.",
+    "usage": "medium"
+  },
+  {
+    "section": "420",
+    "title": "Cheating and dishonestly inducing delivery of property",
+    "category": "IPC",
+    "description": "This section penalizes cheating that results in the delivery of property or destruction of valuable security. It carries a punishment of up to seven years of imprisonment and a fine. Section 420 is commonly invoked in fraud cases, real estate scams, and financial deceit. It safeguards individuals and entities from being tricked out of their property through dishonest misrepresentation or breach of trust, making it a widely used anti-fraud provision.",
+    "usage": "high"
+  },
+  {
+    "section": "50",
+    "title": "Person arrested to be informed of grounds of arrest",
+    "category": "CrPC",
+    "description": "Section 50 mandates that any person arrested without a warrant must be immediately informed of the reasons for their arrest and their right to bail if applicable. This is a fundamental right under Article 22 of the Constitution. It ensures transparency in police action and protects individuals from arbitrary detention. Non-compliance may render the arrest illegal. This section upholds the values of natural justice and due process of law.",
+    "usage": "high"
+  },
+  {
+    "section": "323",
+    "title": "Voluntarily causing hurt",
+    "category": "IPC",
+    "description": "Section 323 covers the act of voluntarily causing hurt, meaning causing bodily pain, disease, or infirmity to another person. The section prescribes punishment up to one year of imprisonment or a fine, or both. It is a commonly invoked provision in physical altercations, domestic violence cases, and street fights. The law helps prevent physical aggression and provides a legal route for redressal in such matters.",
+    "usage": "medium"
+  },
+    {
+    "section": "188",
+    "title": "Disobedience to order duly promulgated by public servant",
+    "category": "IPC",
+    "description": "Section 188 penalizes anyone who disobeys an order issued by a public servant that is lawfully promulgated. This includes curfews, lockdown orders, or restrictions under Section 144 CrPC. Disobedience must be intentional and must cause or tend to cause obstruction, injury, or annoyance to persons lawfully employed. It is especially relevant during emergencies, natural disasters, or public health crises. The provision helps enforce administrative decisions and maintain order and safety in society.",
+    "usage": "high"
+  },
+  {
+    "section": "173",
+    "title": "Report of police officer on completion of investigation",
+    "category": "CrPC",
+    "description": "Section 173 requires the officer in charge of a police station to submit a final report to the Magistrate after completing an investigation. The report, known as the charge-sheet, must contain details like the names of parties, nature of offence, witnesses, and evidence collected. This ensures the case moves from the investigative to the trial stage in a systematic manner. It plays a crucial role in initiating judicial scrutiny and framing of charges.",
+    "usage": "high"
+  },
+  {
+    "section": "447",
+    "title": "Criminal trespass",
+    "category": "IPC",
+    "description": "Section 447 punishes anyone who enters another person’s property with intent to commit an offence, intimidate, insult, or annoy the possessor. The offence is punishable with imprisonment for up to three months, a fine, or both. It safeguards the rights of individuals to enjoy their property peacefully and serves as a deterrent against illegal entries. This section is often invoked in land disputes, encroachments, and situations involving aggressive behavior on private premises.",
+    "usage": "medium"
+  },
+  {
+    "section": "313",
+    "title": "Power to examine the accused",
+    "category": "CrPC",
+    "description": "Section 313 ensures that the accused in a criminal case is provided an opportunity to explain any circumstances appearing in evidence against them. This is a part of fair trial rights and cannot be skipped. The court must directly ask the accused, and their answers are recorded without the need for an oath. It provides a chance for the accused to state their defense or version and is vital for balanced adjudication.",
+    "usage": "medium"
+  },
+  {
+    "section": "298",
+    "title": "Uttering words with deliberate intent to wound religious feelings",
+    "category": "IPC",
+    "description": "Section 298 punishes individuals who deliberately utter words or make gestures intended to hurt the religious feelings of others. This includes insults made in public or private that aim to offend beliefs. Punishment may extend to one year or fine or both. It aims to maintain religious harmony and prevent inflammatory behavior in a diverse country like India. This section is important in controlling communal tension and ensuring respectful discourse.",
+    "usage": "medium"
+  },
+  {
+    "section": "107",
+    "title": "Security for keeping the peace in other cases",
+    "category": "CrPC",
+    "description": "Section 107 allows an Executive Magistrate to require a person to execute a bond for keeping the peace when there is apprehension of disturbance. This preventive measure helps in controlling individuals likely to provoke conflict or violence. It can be used based on police reports or credible information and is usually invoked in cases of habitual offenders. This section helps prevent crimes before they occur and supports public safety.",
+    "usage": "medium"
+  },
+  {
+    "section": "141",
+    "title": "Unlawful assembly",
+    "category": "IPC",
+    "description": "Section 141 defines unlawful assembly as a group of five or more persons with a common objective to commit a crime or resist lawful authority. The section identifies certain purposes like overawing government officers, criminal force, or mischief as illegal. It allows the police to control mobs and disperse groups threatening peace. The provision ensures balance between the right to assemble and the necessity to prevent violence and uphold law and order.",
+    "usage": "medium"
+  },
+  {
+    "section": "164",
+    "title": "Recording of confessions and statements",
+    "category": "CrPC",
+    "description": "Section 164 empowers a Magistrate to record confessions or statements made by an accused or witness during investigation. It ensures that any such confession is made voluntarily and with full knowledge of the consequences. The section also helps prevent coercion and manipulation during interrogation. Statements recorded under this section carry significant evidentiary weight and can be used in court. It serves to safeguard the integrity of the investigation and trial process.",
+    "usage": "high"
+  },
+  {
+    "section": "341",
+    "title": "Wrongful restraint",
+    "category": "IPC",
+    "description": "This section penalizes anyone who obstructs another person from proceeding in a direction they have the right to go. Wrongful restraint is a milder form of wrongful confinement and is punishable with imprisonment of up to one month or a fine, or both. It is often invoked in street quarrels, protests, and personal disputes. The provision ensures the right to free movement is protected and discourages harassment through physical blockage or coercion.",
+    "usage": "medium"
+  },
+  {
+    "section": "482",
+    "title": "Saving of inherent power of High Court",
+    "category": "CrPC",
+    "description": "Section 482 acknowledges the inherent powers of the High Court to make such orders as may be necessary to give effect to any order under the CrPC, prevent abuse of process, or secure the ends of justice. This section acts as a safety valve to correct procedural errors or unjust outcomes. It is often used in quashing FIRs or criminal proceedings when legal process is misused or when a fair remedy must be ensured.",
+    "usage": "high"
+  }
+]

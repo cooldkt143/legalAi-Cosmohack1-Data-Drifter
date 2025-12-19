@@ -1,0 +1,114 @@
+[
+  {
+    "firNumber": "FIR-20251006034339",
+    "dateTime": "2025-10-06T09:13",
+    "complainant": {
+      "name": "jeny das",
+      "address": "jamna stree gorakhpur",
+      "phone": "8596412370",
+      "description": "a theft occurred at my residence located at 45, Green Street, Cityville. Unknown persons broke into my house and stole gold jewelry and cash worth approximately ₹2,00,000. I suspect the culprits may be from the nearby locality, but I do not know their identities."
+    },
+    "createdAt": "2025-10-06T03:46:15.760Z"
+  },
+  {
+    "firNumber": "FIR-20251006043306",
+    "dateTime": "202518-08-07T16:12",
+    "complainant": {
+      "name": "Rajendra Rao",
+      "address": "chandini street",
+      "phone": "798465132",
+      "description": "Landmark judgment on digital evidence admissibility under IPC and CrPC sections. Court recognized digital trails as valid primary evidence, significantly impacting cybercrime investigations."
+    },
+    "createdAt": "2025-10-06T04:34:33.006Z"
+  },
+  {
+    "firNumber": "FIR-20251006081044",
+    "dateTime": "2025-10-06T13:40",
+    "complainant": {
+      "name": "raghunath barik",
+      "address": "skula nagar ",
+      "phone": "6370569685",
+      "description": "Judgment emphasized citizen privacy in FIR publication. Introduced guidelines for redaction of sensitive information before publishing FIRs online"
+    },
+    "createdAt": "2025-10-06T08:11:58.835Z"
+  },
+  {
+    "firNumber": "FIR-20251006034339",
+    "dateTime": "2025-10-06T09:13",
+    "complainant": {
+      "name": "jeny das",
+      "address": "jamna stree gorakhpur",
+      "phone": "8596412370",
+      "description": "a theft occurred at my residence located at 45, Green Street, Cityville. Unknown persons broke into my house and stole gold jewelry and cash worth approximately ₹2,00,000. I suspect the culprits may be from the nearby locality, but I do not know their identities."
+    },
+    "createdAt": "2025-10-06T03:46:15.760Z"
+  },
+  {
+    "firNumber": "FIR-20251006043306",
+    "dateTime": "202518-08-07T16:12",
+    "complainant": {
+      "name": "Rajendra Rao",
+      "address": "chandini street",
+      "phone": "798465132",
+      "description": "Landmark judgment on digital evidence admissibility under IPC and CrPC sections. Court recognized digital trails as valid primary evidence, significantly impacting cybercrime investigations."
+    },
+    "createdAt": "2025-10-06T04:34:33.006Z"
+  },
+  {
+    "firNumber": "FIR-20251006081044",
+    "dateTime": "2025-10-06T13:40",
+    "complainant": {
+      "name": "raghunath barik",
+      "address": "skula nagar ",
+      "phone": "6370569685",
+      "description": "Judgment emphasized citizen privacy in FIR publication. Introduced guidelines for redaction of sensitive information before publishing FIRs online"
+    },
+    "createdAt": "2025-10-06T08:11:58.835Z"
+  },
+  {
+    "firNumber": "FIR-20251212143905",
+    "dateTime": "2025-12-10T12:12",
+    "complainant": {
+      "name": "Debasis nayak",
+      "address": "Bio street nehuru nagar ram bihar",
+      "phone": "987456220",
+      "description": "a theft is occour near my street "
+    },
+    "createdAt": "2025-12-12T14:40:00.653Z"
+  },
+  {
+    "firNumber": "FIR-20251212144059",
+    "dateTime": "2025-12-12T20:11",
+    "complainant": {
+      "name": "Deepak Kumar Tripathy ",
+      "address": "Balaji nagar  gosainnuagaon ",
+      "phone": "9692413929",
+      "description": "a theft is occur near our house "
+    },
+    "complaintType": "theft",
+    "createdAt": "2025-12-12T14:41:51.104Z"
+  },
+  {
+    "firNumber": "FIR-20251212144833",
+    "dateTime": "2025-12-12T20:18",
+    "complainant": {
+      "name": "Rajendra raoula",
+      "address": "biol street gosainnuagaon",
+      "phone": "7654321980",
+      "description": "a theft is occures in biol street at house no 90 "
+    },
+    "createdAt": "2025-12-12T14:49:46.957Z"
+  },
+  {
+    "firNumber": "FIR-20251212145044",
+    "dateTime": "2025-12-12T20:20",
+    "complainant": {
+      "name": "Raju sahu",
+      "address": "nandini nagar",
+      "phone": "7645893012",
+      "description": "a theft is occur in my uncles Mr Rajendra raoula's house in biol street"
+    },
+    "complaintType": "theft",
+    "createdAt": "2025-12-12T14:51:48.242Z"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "firNumber": "FIR-20251006034822",
+    "description": "Theft case at Jamna Street",
+    "status": "Closed"
+  },
+  {
+    "firNumber": "FIR-20251006034339",
+    "description": "Robbery near City Mall",
+    "status": "Ongoing"
+  },
+  {
+    "firNumber": "FIR-20251006035011",
+    "description": "Fraudulent transaction case",
+    "status": "Under Investigation"
+  },
+  {
+    "firNumber": "FIR-20251006034211",
+    "description": "Illegal possession of weapons",
+    "status": "Closed"
+  },
+  {
+    "firNumber": "FIR-20251006034789",
+    "description": "Cybercrime phishing case investigation",
+    "status": "Under Investigation"
+  },
+  {
+    "firNumber": "FIR-20251006034157",
+    "description": "Smuggling operation near railway station",
+    "status": "Ongoing"
+  }
+]
