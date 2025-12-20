@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { Shield } from "lucide-react";
 import ThemeToggle from "../components/themeToggle";
@@ -9,6 +9,11 @@ const OfficerLogin = () => {
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const navigate = useNavigate();
+
+  // Alert when page loads
+  useEffect(() => {
+    alert("for demo use username: UP12-2105 and password: Rajesh2105");
+  }, []);
 
   const handleLogin = (e) => {
     e.preventDefault();
@@ -39,7 +44,6 @@ const OfficerLogin = () => {
             "0 8px 30px rgba(59, 130, 246, 0.3), 0 0 10px rgba(59, 130, 246, 0.2) inset",
         }}
       >
-        {/* Animated Shield Icon */}
         <motion.div
           initial={{ scale: 0 }}
           animate={{ scale: 1 }}
@@ -58,11 +62,16 @@ const OfficerLogin = () => {
         <h2 className="text-xl sm:text-2xl font-bold mb-6 text-center">
           Police Officer Login
         </h2>
-        {error && <p className="text-red-500 mb-4 text-center text-sm">{error}</p>}
+
+        {error && (
+          <p className="text-red-500 mb-4 text-center text-sm">{error}</p>
+        )}
 
         <form onSubmit={handleLogin} className="space-y-4">
           <div>
-            <label className="block mb-1 font-medium text-sm sm:text-base">Username</label>
+            <label className="block mb-1 font-medium text-sm sm:text-base">
+              Username
+            </label>
             <input
               type="text"
               value={username}
@@ -74,8 +83,11 @@ const OfficerLogin = () => {
               required
             />
           </div>
+
           <div>
-            <label className="block mb-1 font-medium text-sm sm:text-base">Password</label>
+            <label className="block mb-1 font-medium text-sm sm:text-base">
+              Password
+            </label>
             <input
               type="password"
               value={password}
@@ -86,6 +98,7 @@ const OfficerLogin = () => {
                          bg-white dark:bg-gray-700 text-gray-900 dark:text-white text-sm sm:text-base"
             />
           </div>
+
           <motion.button
             whileHover={{ scale: 1.03 }}
             whileTap={{ scale: 0.97 }}
