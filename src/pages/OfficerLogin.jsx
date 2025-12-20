@@ -111,7 +111,16 @@ const OfficerLogin = () => {
         </form>
 
         <p className="mt-4 text-center text-xs sm:text-sm text-gray-700 dark:text-gray-300">
-          Forgot your password? Contact admin.
+          Forgot your password? Contact{" "}
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSfxCIuCsn3strbSWSrnc0dS4LQdGP2Pe9kO9jMNeorT1gZKSg/viewform?usp=publish-editor"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-600 hover:text-blue-700 font-semibold underline"
+          >
+            admin
+          </a>
+          .
         </p>
       </motion.div>
     </div>
