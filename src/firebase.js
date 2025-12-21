@@ -3,13 +3,13 @@ import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCWWdaiGpFMxOvlyA6su-yWCICqMuxKX5I",
-  authDomain: "legal-ai-8d7a8.firebaseapp.com",
-  projectId: "legal-ai-8d7a8",
-  storageBucket: "legal-ai-8d7a8.firebasestorage.app",
-  messagingSenderId: "234232236127",
-  appId: "1:234232236127:web:2acfeb1bc6b56a92e0f3ea",
-  measurementId: "G-8S2GSW7WQ3"
+  apiKey: "AIzaSyBcMQzoTNUrpeCtef829C4VVdf_0faBBw0",
+  authDomain: "legailai-2.firebaseapp.com",
+  projectId: "legailai-2",
+  storageBucket: "legailai-2.firebasestorage.app",
+  messagingSenderId: "296742156924",
+  appId: "1:296742156924:web:49e56c86a9d4d1504ba7f9",
+  measurementId: "G-VPE8L9T0RC"
 };
 
 const app = initializeApp(firebaseConfig);
